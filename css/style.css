@@ -193,6 +193,7 @@ body {
   margin-bottom: 24px;
 }
 .btn {
+  display: none;
   background-color: transparent;
   border: none;
   padding: 0;
@@ -759,6 +760,7 @@ body {
 .slider__counter {
   max-width: 363px;
   margin-right: 117px;
+  display: none;
 }
 .slider__counter--first {
   margin-top: 0;
